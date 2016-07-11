@@ -1,6 +1,6 @@
 #读书笔记
 - [ch04 最小二乘法——电影推荐](https://github.com/xiaoyesoso/Spark-ML#ch04-%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98%E6%B3%95%E7%94%B5%E5%BD%B1%E6%8E%A8%E8%8D%90)
-
+- [ch04 性能评估——MSE/RMSE与MAPK/MAP](https://github.com/xiaoyesoso/Spark-ML/blob/master/README.md#ch04-%E6%80%A7%E8%83%BD%E8%AF%84%E4%BC%B0-msermse%E4%B8%8Emapkmap)
 
 #ch04 最小二乘法——电影推荐
 ##算法
