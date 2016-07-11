@@ -1,5 +1,8 @@
 #读书笔记
-#ch04 最小二乘法——电影推荐 
+- [ch04 最小二乘法——电影推荐](#ch04_1)
+
+
+#<span id="ch04_1">ch04 最小二乘法——电影推荐</span> 
 ##算法
 ###[ALS学习算法](http://blog.csdn.net/oucpowerman/article/details/49847979) 
 ##数据集处理
